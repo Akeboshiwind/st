@@ -1,6 +1,6 @@
 # st
 
-A clone of the `st` AUR package.
+A fork of the `st` AUR package.
 
 ## Install
 
