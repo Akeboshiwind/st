@@ -14,6 +14,8 @@ cd ..
 rm -rf st
 ```
 
+If you are rebuilding it remember to use makepkg's `-f` flag to force a rebuild.
+
 ## Adding patches
 
 Add the patch in the correct place in the `_patches` list in `PKGBUILD`.
